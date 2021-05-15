@@ -1,0 +1,105 @@
+
+ body{
+   text-align: justify;
+   background: url("../images/background.jpg") no-repeat fixed;
+   background-size: cover;
+   margin: 0;
+}
+.icon-bar {
+  width: 100%;
+  background-color: rgba(35, 35, 246, 1);
+  overflow: hidden;
+  border-bottom-style:solid;
+  border-color:rgba(122, 244, 255, 0.60);
+  height: 50px;
+  font-family: 'Architects Daughter', cursive; 
+  text-shadow: 1px 1px red;
+ }
+
+.icon-bar a {
+  float: left;
+  width: 25%;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 25px; 
+}
+.icon-bar a:link {
+  color: rgb(199, 240, 247);
+  text-decoration: none;
+}
+.icon-bar a:visited { color: rgb(241, 151, 213);
+}
+.icon-bar a:hover {
+  color: whitesmoke;
+}
+.icon-bar a:active { 
+  color: #cacadf;
+}
+
+#abc{
+   padding-right:100px;
+   padding-left:100px;
+ }
+ h1{
+  text-shadow:1px 1px white;
+ }
+ h1,h4{
+ 	 font-family: Dancing Script;
+ }
+ hr{
+ 	border: 1px dotted blue;
+ }
+ td{
+  padding-left: 10px;
+  padding-right: 10px;
+ }
+.chenar{
+  border: 3px outset #FFE7E7;  
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 10px;
+  background-color: #FFF0F0;
+}
+.zxc{
+  padding-right: 20px;
+}
+#lng{
+  border:3px outset violet;
+  padding:0px;
+}
+.d{
+  color:blue ;
+}
+#lista{
+  list-style: lower-greek;
+}
+.footer{
+  clear: both;
+  text-align: center;
+  width: 100%;
+  background-color:rgba(35, 35, 246, 0.5) ;
+  margin:0;
+  padding:5px 0;
+  color:#F5DEB3;
+  height: auto;
+}
+.chenar1{
+  border: 3px outset #FFE7E7;  
+  padding: 10px;
+  background-color: rgba(255, 222, 222, 0.8);
+}
+#color{
+  color:green;
+}
+#cl{
+  color:red;
+  font-size: 2em;
+}
+ #id{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px blue;
+}
+.f{
+  color:indigo;
+}
